@@ -1,0 +1,94 @@
+* {
+    font-family: 'Franklin Gothic Medium';
+  }
+   
+  header {
+    background-color:rgb(243, 189, 189);
+    width: 100%;
+    z-index: 10;
+    content: .1%;
+  }
+  
+  ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+  }
+  
+  li {
+    color: rgb(197, 188, 188);
+    font-size: 23px;
+    font-weight: 300;
+    display: inline-block;
+    width: 110px;  
+    -webkit-text-stroke: 0.2px black;
+  }
+  
+  li:hover {
+    color: rgb(204, 105, 105);
+  }
+   
+  h1 {
+    color: rgb(204, 105, 105);
+    position: absolute;
+    top: 150px;
+    left: 370px;
+    z-index: 20;
+    font-size: 50px;
+  }
+
+  h2 { 
+    color: rgb(204, 105, 105);
+    position: absolute; 
+    top: 340px;
+    left: 370px;
+  }
+  body {background-color: blanchedalmond;}
+  
+  .image1 {
+    border-radius: 80px;
+    border-style: double;
+  }
+  
+  .p1{
+    background-color: rgb(226, 159, 159);
+    padding: 30px;
+    text-align: center;
+    word-spacing: 2px;
+    line-height: 20px;
+    font-size: 21px;
+    color:white;
+    -webkit-text-stroke: 0.2px black;
+  }
+
+  * {
+    box-sizing: border-box;
+    ;
+  }
+  
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  footer {
+    display: flex;
+    align-items:center;
+    background-color: rgb(226, 159, 159);
+    }
+ 
+  .p2 {color: rgb(233, 232, 232);
+    margin-right: 100px;
+  }
+
+  .image3{
+    z-index: 10;}
+
+  .date {font-size: 100px;}
