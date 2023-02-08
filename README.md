@@ -2,11 +2,11 @@
 
 Link:
 
-**##Aim**
+**##Aim**  
 This 
 
-##Features
-
+##Features  
+This has links to an instagram account - click on each picture to take you to the corresponding reel.
 
 
 ##Stack 
