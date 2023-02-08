@@ -14,3 +14,8 @@ This has links to an instagram account - click on each picture to take you to th
 2. CSS
 3. Javascript
 
+
+
+Questions 
+Wrap in a container / div 
+a complete guide to flexbox 
