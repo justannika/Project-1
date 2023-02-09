@@ -35,16 +35,17 @@
     top: 150px;
     left: 370px;
     z-index: 20;
-    font-size: 50px;
+    font-size: 20px;
     align-content: flex-start;
   }
 
-  h2 { 
+  .subtitle { 
     color: rgb(204, 105, 105);
     position: absolute; 
     top: 340px;
     left: 370px;
   }
+
   body {background-color: blanchedalmond;}
   
   .image1 {

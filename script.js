@@ -20,3 +20,4 @@ setInterval(() => {
     timeElement.textContent = formatTime (now);
     dateElement.textContent = formatDate (now);
 }, 200);
+
